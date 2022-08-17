@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>link</title>
+</head>
+<body><a href="https://www.tiktok.com/@alchand16"></a>
+    <Style>a:link {
+        color:aqua;
+        background-color: black;
+        text-decoration: solid;
+        </Style>
+</body>
+</html>
