@@ -1,0 +1,27 @@
+.container{
+    height: 250px;
+    width: 600px;
+    border: solid 1px gray;
+    display: flex;
+    /* flex-direction: column-reverse; */
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    align-content: flex-start;
+}
+.container div{
+    width: 100px;
+    height: 50px;
+}
+.satu{
+    background-color: red;
+}
+.dua{
+    background-color: blue;
+}
+.tiga{
+    background-color: yellow;
+}
+.empat{
+    background-color: green;
+}

@@ -1,0 +1,6 @@
+.container{
+    font-size: 50px;
+    height: 200px;
+    width: 800px;
+    background: url('indonesia.png') no-repeat top right blue;
+}
