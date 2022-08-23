@@ -8,3 +8,6 @@ th, td{
     border-style: dotted;
     border-color: coral;
 }
+tr{
+    height: 200px;
+}
