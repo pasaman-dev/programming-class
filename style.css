@@ -1,13 +1,12 @@
-table, th, td {
-    width: 100%;
-    border-collapse: collapse;
-  }
-
-th, td{
-    padding: 8px;
-    text-align: left;
-    border-bottom: 1px solid #DDD;
+.city {
+    background-color: tomato;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
 }
 
-tr:hover{background-color: #D6EEEE;}
-
+.note{
+    font-size: 120%;
+    color: red;
+}
