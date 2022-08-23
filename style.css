@@ -5,4 +5,6 @@ table, th, td {
 
 th, td{
     background-color: aqua;
+    border-style: dotted;
+    border-color: coral;
 }
