@@ -1,9 +1,21 @@
 h1{
     background-color: green;
+    padding: 12px;
 }
 
 .Isi{
-    background-color: lightblue;
-    opacity: 0.3
+    border: 2px solid tomato;
+    padding: 12px 8px;
 }
 
+.gambar{
+    size: 100px 100px;
+    padding: 100px;
+    font-size:20px;
+    border: 2px solid black;
+    background-size: 40%;
+    background-image: url("images/gambar1.jpg");
+    background-repeat: repeat-y;
+    background-position: right;
+
+}
