@@ -1,11 +1,9 @@
-.judul1{
-    border: 2px solid tomato;
+h1{
+    background-color: green;
 }
 
-.judul2{
-    border: 2px solid dodgerblue;
+.Isi{
+    background-color: lightblue;
+    opacity: 0.3
 }
 
-.judul3{
-    border: 2px solid violet;
-}
