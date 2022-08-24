@@ -1,9 +1,17 @@
+#header{
+    background: teal;
+    color:#ffffff;
+    height: 100px;
+    width:auto;
+    text-align: center;
+}
+
 .cardsatu{
     background-color: rgba(0, 0, 0, 0.6);
     border-left: 4px solid black;
     border-radius: 4px;
     padding: 20px;
-    margin: 20px 20px; 
+    margin: 20px 20px;  
 }
 
 .judul{
